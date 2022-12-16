@@ -1,0 +1,8 @@
+git basic commands
+--------------------
+
+git add .
+ 
+git push
+
+git commit -m "azure"
